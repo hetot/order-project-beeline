@@ -18,3 +18,8 @@
 ```aiignore
 ./start-all.sh
 ```
+
+Затем перейти по ссылке:
+```aiignore
+http://localhost:8080/swagger-ui/index.html
+```
